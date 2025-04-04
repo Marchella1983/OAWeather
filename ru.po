@@ -38,10 +38,10 @@ msgid "Current Weather"
 msgstr "Текущая погода"
 
 msgid "Default"
-msgstr "Yмолчанию"
+msgstr "Дефолт"
 
 msgid "Defaults"
-msgstr "По умолчанию"
+msgstr "По дефолту"
 
 msgid "Disabled"
 msgstr "Отключено"
@@ -80,7 +80,7 @@ msgid "Location Selection"
 msgstr "Местоположение"
 
 msgid "MSN weather"
-msgstr "MSN погода"
+msgstr "MSN weather"
 
 msgid "Metric unit for wind speed"
 msgstr "Скорость ветра"
@@ -95,10 +95,10 @@ msgid "Northwest"
 msgstr "Северо-Запад"
 
 msgid "Open-Meteo Wetter"
-msgstr "Open-Meteo Wetter погода"
+msgstr "Open-Meteo Wetter"
 
 msgid "OpenWeatherMap"
-msgstr "Открыть карту погоды"
+msgstr "OpenWeatherMap"
 
 msgid "Precipitation"
 msgstr "Осадки"
@@ -170,7 +170,7 @@ msgid "Today"
 msgstr "Сейчас"
 
 msgid "Update"
-msgstr "Обновлено"
+msgstr "Обнова"
 
 msgid "Weather API key"
 msgstr "Ключ API MetrixWeather"
@@ -182,16 +182,16 @@ msgid "Weather Settings Actions"
 msgstr "Действия с настройками погоды"
 
 msgid "Weather city name"
-msgstr "Название города MetrixWeather"
+msgstr "Название города для погоды"
 
 msgid "Weather icon night switch"
 msgstr "Ночной переключатель"
 
 msgid "Weather icon set"
-msgstr "Набор пиконов"
+msgstr "Набор пиконов погоды"
 
 msgid "Weather service"
-msgstr "Сервис MetrixWeather"
+msgstr "Сервис погоды"
 
 msgid "Weather settings"
 msgstr "Настройки погоды"
